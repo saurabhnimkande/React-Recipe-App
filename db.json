@@ -1,0 +1,20 @@
+{
+  "recipes": [
+    {
+      "title": "Egg roll",
+      "ingredients": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do",
+      "timetocook": "1",
+      "instructions": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do",
+      "image": "https://foodish-api.herokuapp.com/images/burger/burger15.jpg",
+      "id": 1
+    },
+    {
+      "title": "Cake",
+      "ingredients": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do",
+      "timetocook": "2",
+      "instructions": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do",
+      "image": "https://foodish-api.herokuapp.com/images/biryani/biryani78.jpg",
+      "id": 2
+    }
+  ]
+}

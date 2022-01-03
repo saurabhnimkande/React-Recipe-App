@@ -1,0 +1,15 @@
+img {
+  width: 200px;
+  border-radius: 10px;
+}
+
+.mainDiv {
+  display: flex;
+  background-color: #7267cb;
+  margin-bottom: 15px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+.mainDiv > div:nth-child(2) {
+  margin-left: 20px;
+}
