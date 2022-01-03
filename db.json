@@ -15,6 +15,22 @@
       "instructions": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do",
       "image": "https://foodish-api.herokuapp.com/images/biryani/biryani78.jpg",
       "id": 2
+    },
+    {
+      "title": "Fried Rice",
+      "ingredients": "Rice, oil , onion",
+      "timetocook": "5",
+      "instructions": "Do whatever you want.",
+      "image": "https://foodish-api.herokuapp.com/images/pizza/pizza16.jpg",
+      "id": 3
+    },
+    {
+      "title": "Pizza",
+      "ingredients": "Corn, onion,Cheese",
+      "timetocook": "8",
+      "instructions": "Do whatever you want.",
+      "image": "https://foodish-api.herokuapp.com/images/idly/idly49.jpg",
+      "id": 4
     }
   ]
 }
